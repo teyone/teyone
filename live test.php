@@ -1,0 +1,5 @@
+
+<style>body{font-family:'Open Sans', sans-serif;}
+th{width:auto; min-width:30px; padding:5px;  height:20px; font-size:12px; font-weight:100; text-align:center; background:#369; color:#FFF}	
+td{width:auto; min-width:30px; padding:5px;  height:20px; font-size:12px; font-weight:100; text-align:center; background:#666; color:#FFF}
+</style><table><th>TEAM</th><th>SEASON</th><th>P</th><th>W</th><th>D</th><th>L</th><th>F</th><th>A</th><th>GD</th><th>PTS</th><tr><td>Chelsea</td><td>04/05</td><td>19</td><td>15</td><td>3</td><td>1</td><td>37</td><td>9</td><td>28</td><td>48</td></tr><tr><td>Arsenal</td><td>01/02</td><td>19</td><td>14</td><td>5</td><td>0</td><td>37</td><td>11</td><td>22</td><td>47</td></tr><tr><td>Chelsea</td><td>08/09</td><td>19</td><td>14</td><td>2</td><td>3</td><td>35</td><td>12</td><td>23</td><td>44</td></tr><tr><td>Man Utd</td><td>93/94</td><td>21</td><td>13</td><td>5</td><td>3</td><td>41</td><td>25</td><td>16</td><td>44</td></tr><tr><td>Liverpool</td><td>08/09</td><td>19</td><td>13</td><td>4</td><td>2</td><td>36</td><td>14</td><td>22</td><td>43</td></tr></table>

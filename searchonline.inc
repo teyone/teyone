@@ -1,0 +1,1 @@
+<p><input type="text" name="search" value="search google..." class="search" onblur="if(this.value=='') this.value='search google...';" onfocus="if(this.value=='search google...') this.value='';" /> <input type="submit" value="Go" class="submit" /></p>
